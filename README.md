@@ -10,6 +10,7 @@ This project is part of the US State Department initiative to create a Data Dash
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Features and Code Snippets](#features-and-code-snippets)
+- [Final Code](#final-code)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -79,9 +80,16 @@ output$plot_asylum_applications <- renderPlotly({
 })
 ```
 
-## Contributors
-- Farrel Azhar
-- Adam Rosario
-- Payton Morlock
-- Sibo Zheng
+## Final Code
 
+The final code for this project can be found [here](https://github.com/Fazazhar/Diplomacy-Lab-Dashboard/blob/main/g7_final_dashboard/g7_dashboard_final_acled.R).
+
+## Contributors
+- [Farrel Azhar](https://www.linkedin.com/in/farrel-azhar-6b8179236/)
+- [Adam Rosario](https://www.linkedin.com/in/adam-rosario/)
+- [Payton Morlock](https://www.linkedin.com/in/payton-morlock-b474721b5/)
+- [Sibo Zheng](https://www.linkedin.com/in/sibo-zheng-9b83b9248/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Fazazhar/Diplomacy-Lab-Dashboard/blob/main/LICENSE.md) file for details.
