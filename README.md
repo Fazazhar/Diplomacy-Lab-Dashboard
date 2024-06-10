@@ -51,7 +51,7 @@ The data utilized in this dashboard comes from multiple sources, including:
 - [Internal Displacement Monitoring Centre (IDMC)](https://www.internal-displacement.org/)
 - [UNRWA](https://www.unrwa.org/)
 
-For detailed information about the data, refer to the project memo:
+For detailed information about the data, refer to the project [memo](https://github.com/Fazazhar/Diplomacy-Lab-Dashboard/blob/main/memo/GPGN_490_group7_refugee_tab_memo.pdf):
 
 ### Memo Excerpt
 
