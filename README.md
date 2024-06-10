@@ -1,4 +1,4 @@
-# Diplomacy Lab Dashboard Group 7
+# Diplomacy Lab Dashboard
 
 ## Description
 
