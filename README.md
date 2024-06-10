@@ -1,4 +1,4 @@
-# Diplomacy Lab Dashboard
+# Diplomacy Lab Dashboard — G7
 
 ## Description
 
