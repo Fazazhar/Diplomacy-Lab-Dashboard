@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is part of the US State Department initiative to create a Data Dashboard for Foreign Service Officers at Embassies worldwide. The dashboard utilizes various datasets to provide insights into global displacement trends, demographic details, and solutions for refugees.
+This project is part of the US State Department's initiative to develop a Data Dashboard for Foreign Service Officers at Embassies around the world. This repository includes the code for the refugee tab, which uses various datasets to provide insights into global displacement trends, demographic details, and solutions for refugees. The complete dashboard can be accessed [here](https://kylehandley.shinyapps.io/DipLabDashboard/).
 
 ## Table of Contents
 
@@ -46,6 +46,7 @@ The dashboard provides an interactive interface to explore various datasets rela
 
 The data utilized in this dashboard comes from multiple sources, including:
 
+- [Refugees R Package](https://github.com/PopulationStatistics/refugees)
 - [UNHCR Refugee Population Statistics Database](https://www.unhcr.org/refugee-statistics/methodology/)
 - [Internal Displacement Monitoring Centre (IDMC)](https://www.internal-displacement.org/)
 - [UNRWA](https://www.unrwa.org/)
