@@ -4,6 +4,8 @@
 
 This project is part of the US State Department's initiative to develop a Data Dashboard for foreign service officers at Embassies around the world. This repository includes the code for the refugee tab, which uses various [UNHCR refugee datasets](https://www.unhcr.org/refugee-statistics/insights/explainers/refugees-r-package.html) to provide insights into global displacement trends, demographic details, and solutions for refugees. The complete dashboard can be accessed [here](https://kylehandley.shinyapps.io/DipLabDashboard/).
 
+![Short Overview](images/short-overview.png)
+
 ## Table of Contents
 
 - [Installation and Setup](#installation-and-setup)
@@ -28,7 +30,7 @@ To get started with this project, follow these steps:
     cd Diplomacy-Lab-Dashboard
     ```
 
-3. Install the necessary packages:
+3. Install the necessary  s:
     ```r
     install.packages(c("shiny", "shinyjs", "refugees", "ggplot2", "dplyr", "shinydashboard", "plotly", "tidyr", "scales"))
     ```
